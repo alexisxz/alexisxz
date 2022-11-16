@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @alexisxz
-(Portfolio)[https://alexisxz.github.io/my-site/]
+ - [Portfolio](https://alexisxz.github.io/my-site/)
+ - [Site](https://alexisxz.github.io/my-site/)
 
 <!---
 alexisxz/alexisxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
