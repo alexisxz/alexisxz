@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexisxz
- - [Portfolio](https://alexisxz.github.io/my-site/)
+ - [Portfolio](https://github.com/stars/alexisxz/lists/portfolio)
  - [Site](https://alexisxz.github.io/my-site/)
 
 <!---
